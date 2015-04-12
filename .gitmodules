@@ -1,3 +1,6 @@
 [submodule "submodule1"]
 	path = submodule1
 	url = ghub:gdevkh/sub1.git
+[submodule "submodule2"]
+	path = submodule2
+	url = ghub:gdevkh/sub2.git
