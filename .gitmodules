@@ -1,0 +1,3 @@
+[submodule "submodule1"]
+	path = submodule1
+	url = ghub:gdevkh/sub1.git
